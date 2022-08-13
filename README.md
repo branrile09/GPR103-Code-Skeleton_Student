@@ -1,11 +1,15 @@
 # GPR103-Code-Skeleton_Student
  GPR
 Repo: https://github.com/branrile09/GPR103-Code-Skeleton_Student
+
  Operational instructions:
 WASD for movement, 
 
  Credits, Licenses & Attribution:
 majority of drawn assets where done by myself excluding the poggers memes
+poggers memes:
+https://www.etsy.com/sg-en/listing/920864811/twitch-emote-enamel-pins-pepega-pogchamp
+image is ripped, i can not publish game as i do not have permision for the photo, however the photo or content is not copyrighted in any way, shape or form. 
 
 music drum loop was sourced from looperman.com by sonicFury (file called darth lazor)
 https://www.looperman.com/loops/detail/151491/darth-lazor-150bpm-dubstep-drum-loop

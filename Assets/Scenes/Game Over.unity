@@ -416,6 +416,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameOver
       objectReference: {fileID: 0}
+    - target: {fileID: 5059616513340427219, guid: ebf012858471f87468a230569f79f62c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -114
+      objectReference: {fileID: 0}
+    - target: {fileID: 5059616513340427219, guid: ebf012858471f87468a230569f79f62c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -214
+      objectReference: {fileID: 0}
     - target: {fileID: 6348988404220897727, guid: ebf012858471f87468a230569f79f62c,
         type: 3}
       propertyPath: m_Pivot.x
